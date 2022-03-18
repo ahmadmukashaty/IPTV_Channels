@@ -1,0 +1,208 @@
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://203.162.235.41:16924
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1,Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1,Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1,КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1,beIN Sport Premium 01 (240P)
+http://red.ipfox.org:8080/1234/12345678/31603
+#EXTINF:-1,beIN Sport Premium 02 (240P)
+http://red.ipfox.org:8080/1234/12345678/31602
+#EXTINF:-1,beIN Sport Premium 03 (240P)
+http://red.ipfox.org:8080/1234/12345678/31601
+#EXTINF:-1,beIN Sport 01 (240P)
+http://red.ipfox.org:8080/1234/12345678/31600
+#EXTINF:-1,beIN Sport 02 (240P)
+http://red.ipfox.org:8080/1234/12345678/31599
+#EXTINF:-1,beIN Sport 03 (240P)
+http://red.ipfox.org:8080/1234/12345678/31598
+#EXTINF:-1,beIN Sport 04 (240P)
+http://red.ipfox.org:8080/1234/12345678/31597
+#EXTINF:-1,beIN Sport 05 (240P)
+http://red.ipfox.org:8080/1234/12345678/31596
+#EXTINF:-1,beIN Sport 06 (240P)
+http://red.ipfox.org:8080/1234/12345678/31595
+#EXTINF:-1,beIN Sport 07 (240P)
+http://red.ipfox.org:8080/1234/12345678/31594
+#EXTINF:-1,beIN Sport Premium 01 (360P)
+http://red.ipfox.org:8080/1234/12345678/31593
+#EXTINF:-1,beIN Sport Premium 02 (360P)
+http://red.ipfox.org:8080/1234/12345678/31592
+#EXTINF:-1,beIN Sport Premium 03 (360P)
+http://red.ipfox.org:8080/1234/12345678/31591
+#EXTINF:-1,beIN Sport 01 (360P)
+http://red.ipfox.org:8080/1234/12345678/31588
+#EXTINF:-1,beIN Sport 02 (360P)
+http://red.ipfox.org:8080/1234/12345678/31587
+#EXTINF:-1,beIN Sport 03 (360P)
+http://red.ipfox.org:8080/1234/12345678/31586
+#EXTINF:-1,beIN Sport 04 (360P)
+http://red.ipfox.org:8080/1234/12345678/31585
+#EXTINF:-1,beIN Sport 05 (360P)
+http://red.ipfox.org:8080/1234/12345678/31584
+#EXTINF:-1,beIN Sport 06 (360P)
+http://red.ipfox.org:8080/1234/12345678/31583
+#EXTINF:-1,beIN Sport 07 (360P)
+http://red.ipfox.org:8080/1234/12345678/31582
+#EXTINF:-1,beIN Sport Premium 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31548
+#EXTINF:-1,beIN Sport Premium 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31547
+#EXTINF:-1,beIN Sport Premium 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31546
+#EXTINF:-1,beIN Sport 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31555
+#EXTINF:-1,beIN Sport 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31554
+#EXTINF:-1,beIN Sport 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31553
+#EXTINF:-1,beIN Sport 04 (480P)
+http://red.ipfox.org:8080/1234/12345678/31552
+#EXTINF:-1,beIN Sport 05 (480P)
+http://red.ipfox.org:8080/1234/12345678/31551
+#EXTINF:-1,beIN Sport 06 (480P)
+http://red.ipfox.org:8080/1234/12345678/31550
+#EXTINF:-1,beIN Sport 07 (480P)
+http://red.ipfox.org:8080/1234/12345678/31549
+#EXTINF:-1,beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1,beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31528
+#EXTINF:-1,beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31527
+#EXTINF:-1,beIN Sport 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31536
+#EXTINF:-1,beIN Sport 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31535
+#EXTINF:-1,beIN Sport 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31534
+#EXTINF:-1,beIN Sport 04 (720P)
+http://red.ipfox.org:8080/1234/12345678/31533
+#EXTINF:-1,beIN Sport 06 (720P)
+http://red.ipfox.org:8080/1234/12345678/31531
+#EXTINF:-1,beIN Sport 07 (720P)
+http://red.ipfox.org:8080/1234/12345678/31530
+#EXTINF:-1,beIN Sport Premium 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31498
+#EXTINF:-1,beIN Sport Premium 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31497
+#EXTINF:-1,beIN Sport Premium 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31496
+#EXTINF:-1,beIN Sport 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31493
+#EXTINF:-1,beIN Sport 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31492
+#EXTINF:-1,beIN Sport 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31491
+#EXTINF:-1,beIN Sport 04 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31490
+#EXTINF:-1,beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:-1,beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:-1,beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:-1,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:-1,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:-1,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:-1,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:-1,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:-1,SSC 6 HD
+http://red.ipfox.org:8080/1234/12345678/37819
+#EXTINF:-1,SSC 7 HD
+http://red.ipfox.org:8080/1234/12345678/37820
